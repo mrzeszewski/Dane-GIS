@@ -47,12 +47,6 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **Baza danych przestrzennych USGS**
      - _url:_ [https://www.usgs.gov/products/data-and-tools/gis-data](https://www.usgs.gov/products/data-and-tools/gis-data)
      - _opis:_ baza zawiera dane geologiczne, meteorologiczne, hydrologiczne i biogeograficzne. Dostępne są dane wektorowe, tekstowe i formaty .json (dla różnych zakresów tematycznych różne dane). Baza obejmuje obszar całego świata ze szczególnym uwzględnieniem terytorium Stanów Zjednoczonych. Dane dostępne na stronie publikowane były w latach 2009-2019, ale w niektórych przypadkach dotyczą również wcześniejszych badań.
-- **Baza danych przestrzennych USGS**
-     - _url:_ [https://www.usgs.gov/products/data-and-tools/gis-data](https://www.usgs.gov/products/data-and-tools/gis-data)
-     - _opis:_ - **IMPUS Terra**
-     - _url:_ [https://terra.ipums.org/](https://terra.ipums.org/)
-     - _opis:_ IMPUS Terra pracuje na : zbiorczych danych i mikrodanych spisowych i ankietowych, danych z teledetekcji, danych klimatycznych i danych wektorowych z systemu informacji geograficznej.  IMPUS Terra  posiada narzędzia do integracji, analizy i wizualizacji danych o wymiarach przestrzennych i czasowych.
-
 
 
 
@@ -78,3 +72,7 @@ Poniższe linki zawierają informacje przestrzenne w formie map i wizualizacji b
      - _url:_ [  http://www.geoportal.gov.pl/](  http://www.geoportal.gov.pl/)
      - _opis:_ Serwis mapowy, w którym można przeglądać dane przestrzenne dla obszaru Polski, a także pobierać je za pomocą protokołu WMS
 
+
+**Baza danych FAO
+     - _url:_ [http://www.fao.org/faostat/en/#home]
+     - _opis:_ baza danych zawierąjąca informację dotyczące produkcji rolnej, gospodarki leśnej, populacji i handlu
