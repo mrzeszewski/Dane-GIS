@@ -33,7 +33,9 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _url:_ [  http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
      
-     
+    - **European Environment Agency**
+     - _url:_ [https://www.eea.europa.eu/data-and-maps/find/global#c0=12&c6=&b_start=0 ](  https://www.eea.europa.eu/data-and-maps/find/global#c0=12&c6=&b_start=0 )
+     - _opis:_ obszerny zbiór danych przestrzennych dla Europy prowadzony i na bieżąco aktualizowany przez Europejską Agencję Środowiskową; informacje o: Agriculture ,Air pollution, Biodiversity – Ecosystems, Chemicals, Climate change adaptation, Climate change mitigatio, Default, Energy, Environment and health ,Environmental scenarios ,Environmental technology ,Fisheries, Green economy, Household consumption, Industry, Land use, Marine, Natural resources ,Noise ,Policy instruments, Resource efficiency and waste, Soil, Specific regions, Sustainability transitions, Tourism, Transport, Urban environment, Various other issues ,Water;       Natalia Łukasik 
    
 
 
