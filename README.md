@@ -30,9 +30,11 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _url:_ [http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat](http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat)
      - _opis:_ Na stronie GUGiK można znaleźć takie dane jak Państwowy Rejestr Granic, Bazę Danych Obiektów Ogólnogeograficznych oraz Numeryczny Model Terenu (100m). 
 - **GDOŚ - dane na temat ochrony środowiska**
-     - _url:_ [  http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
+     - _url:_ [http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
-     
+- **Earth Esa**
+     - _url:_ [earth.esa.int/EOLi/EOLi.html](earth.esa.int/EOLi/EOLi.html)
+     - _opis:_ serwis internetowy Europejskiej Agencji Kosmicznej z danymi (zobrazowaniami) pochodzącymi z satelit ENVISAT, ERS, Landsat, IKONOS, DMC, ALOS, SPOT, Kompsat, Proba, IRS, SCISAT
      
    
 
