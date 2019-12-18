@@ -30,7 +30,7 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _url:_ [http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat](http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat)
      - _opis:_ Na stronie GUGiK można znaleźć takie dane jak Państwowy Rejestr Granic, Bazę Danych Obiektów Ogólnogeograficznych oraz Numeryczny Model Terenu (100m). 
 - **GDOŚ - dane na temat ochrony środowiska**
-     - _url:_ [http://www.gdos.gov.pl/dane-i-metadane](http://www.gdos.gov.pl/dane-i-metadane)
+     - _url:_ [  http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
 - **Natural Earth**
      - _url:_ [http://www.naturalearthdata.com/downloads/](  http://http://www.naturalearthdata.com/downloads/)
@@ -60,8 +60,12 @@ Poza wymienionymi danymi możesz szukać interesujących danych w takich miejsca
 
 ## Mapy i wizualizacje
 
-Poniższe linki zawierają informacje przestrzenne w formie map i wizualizacji bez możliwości pobrania i wykorzystania
+Poniższe linki zawierają informacje przestrzenne w formie map i wizualizacji bez możliwości pobrania i wykorzystania (ewentualnie tylko WMS)
 
 - **ISOK - KZGW - dane powodziowe**
     - _url:_ [http://mapy.isok.gov.pl/imap/]
     -_opis:_ Hydroportal publikujący mapy zagrożenia powodziowego i mapy ryzyka powodziowego w formacie pdf. 
+- **Geoportal**
+     - _url:_ [  http://www.geoportal.gov.pl/](  http://www.geoportal.gov.pl/)
+     - _opis:_ Serwis mapowy, w którym można przeglądać dane przestrzenne dla obszaru Polski, a także pobierać je za pomocą protokołu WMS
+
