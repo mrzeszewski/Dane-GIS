@@ -32,6 +32,9 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **GDOŚ - dane na temat ochrony środowiska**
      - _url:_ [http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
+- **Państwowy Instytut Geologiczny**
+     - _url:_ [https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html](  https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html)
+     - _opis:_ Na portalu udostępniane są dane geologiczne obejmujące hydrogeologie i surowce mineralne
 - **Earth Esa**
      - _url:_ [earth.esa.int/EOLi/EOLi.html](earth.esa.int/EOLi/EOLi.html)
      - _opis:_ serwis internetowy Europejskiej Agencji Kosmicznej z danymi (zobrazowaniami) pochodzącymi z satelit ENVISAT, ERS, Landsat, IKONOS, DMC, ALOS, SPOT, Kompsat, Proba, IRS, SCISAT
