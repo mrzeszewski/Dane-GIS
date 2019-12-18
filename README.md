@@ -35,7 +35,9 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **Earth Esa**
      - _url:_ [earth.esa.int/EOLi/EOLi.html](earth.esa.int/EOLi/EOLi.html)
      - _opis:_ serwis internetowy Europejskiej Agencji Kosmicznej z danymi (zobrazowaniami) pochodzącymi z satelit ENVISAT, ERS, Landsat, IKONOS, DMC, ALOS, SPOT, Kompsat, Proba, IRS, SCISAT
-     
+     - **European Environment Agency**
+     - _url:_ [https://www.eea.europa.eu/data-and-maps/find/global#c0=12&c6=&b_start=0](  https://www.eea.europa.eu/data-and-maps/find/global#c0=12&c6=&b_start=0)
+     - _opis:_ obszerny zbiór danych przestrzennych dla Europy prowadzony i na bieżąco aktualizowany przez Europejską Agencję Środowiskową; informacje o: Agriculture ,Air pollution, Biodiversity – Ecosystems, Chemicals, Climate change adaptation, Climate change mitigatio, Default, Energy, Environment and health ,Environmental scenarios ,Environmental technology ,Fisheries, Green economy, Household consumption, Industry, Land use, Marine, Natural resources ,Noise ,Policy instruments, Resource efficiency and waste, Soil, Specific regions, Sustainability transitions, Tourism, Transport, Urban environment, Various other issues ,Water 
    
 
 
