@@ -34,7 +34,7 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
 - **Natural Earth**
      - _url:_ [http://www.naturalearthdata.com/downloads/](  http://http://www.naturalearthdata.com/downloads/)
-     - _opis:_ Weronika Cebula
+     - _opis:_  Dane do pobrania: mapy rastrowe i fizyczne z portalu natural earth, SHP, Geopacked, SQlite. Arcmap i Qgis
 - **Państwowy Instytut Geologiczny**
      - _url:_ [https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html](  https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html)
      - _opis:_ Na portalu udostępniane są dane geologiczne obejmujące hydrogeologie i surowce mineralne
@@ -59,6 +59,7 @@ Poza wymienionymi danymi możesz szukać interesujących danych w takich miejsca
 2. [ESRI - Centrum ArcGIS Hub](https://hub.arcgis.com/search) - ogromna baza danych różnorodnych projektów i otwartych danych. Dzięki róznym mechanizmom wyszukiwania można filtrować dokładnie interesujące nas treści. Zaletą jej jest duży zbiór danych, a wadą bardzo różny poziom wykonania i charakter - są tam zarówno dane do pobrania i wykorzystania jak i gotowe mapy. Warto spróbować ale nie należy sobie zbyt wiele obiecywać. 
 
 3. [Strona GIS Support](https://gis-support.pl/baza-wiedzy/dane-do-pobrania/) - na stronie firmy GIS Support można znaleźć wiele informacji na temat danych do pobrania wraz z instrukcjami użycia portali. 
+
 
 ## Mapy i wizualizacje
 
