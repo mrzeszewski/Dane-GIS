@@ -32,7 +32,15 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **GDOŚ - dane na temat ochrony środowiska**
      - _url:_ [  http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
-     
+    **Copernicus.eu**
+  - _url:_ [https://land.copernicus.eu]
+  - _opis:_ Na stronie można znaleźć mapy pokrycia terenu Europy, warstwy rastrowe w wysokiej rozdzielczości, np. warstwy lasów w Europie ; parametry biofizyczne. Dane są z 2015 roku w formacie TIF, DBF, XML
+
+
+Na stronie można znaleźć mapy pokrycia terenu Europy, warstwy rastrowe w wysokiej rozdzielczości, np. warstwy lasów w Europie ; parametry biofizyczne.
+
+Dane są z 2015 roku w formacie TIF, DBF, XML
+
      
    
 
