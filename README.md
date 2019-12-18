@@ -32,6 +32,9 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **GDOŚ - dane na temat ochrony środowiska**
      - _url:_ [  http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
+     - **DANE**
+     - _url:_ [http://www.naturalearthdata.com/downloads/](  http://http://www.naturalearthdata.com/downloads/)
+     - _opis:_ Weronika Cebula
      
      
    
