@@ -34,7 +34,7 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
 - **Natural Earth**
      - _url:_ [http://www.naturalearthdata.com/downloads/](  http://http://www.naturalearthdata.com/downloads/)
-     - _opis:_  Dane do pobrania: mapy rastrowe i fizyczne z portalu natural earth, SHP, Geopacked, SQlite. Arcmap i Qgis
+     - _opis:_ Weronika Cebula
 - **Państwowy Instytut Geologiczny**
      - _url:_ [https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html](  https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html)
      - _opis:_ Na portalu udostępniane są dane geologiczne obejmujące hydrogeologie i surowce mineralne
@@ -47,14 +47,9 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **Baza danych przestrzennych USGS**
      - _url:_ [https://www.usgs.gov/products/data-and-tools/gis-data](https://www.usgs.gov/products/data-and-tools/gis-data)
      - _opis:_ baza zawiera dane geologiczne, meteorologiczne, hydrologiczne i biogeograficzne. Dostępne są dane wektorowe, tekstowe i formaty .json (dla różnych zakresów tematycznych różne dane). Baza obejmuje obszar całego świata ze szczególnym uwzględnieniem terytorium Stanów Zjednoczonych. Dane dostępne na stronie publikowane były w latach 2009-2019, ale w niektórych przypadkach dotyczą również wcześniejszych badań.
-- **Baza danych przestrzennych USGS**
-     - _url:_ [https://www.usgs.gov/products/data-and-tools/gis-data](https://www.usgs.gov/products/data-and-tools/gis-data)
-     - _opis:_ - **IMPUS Terra**
-     - _url:_ [https://terra.ipums.org/](https://terra.ipums.org/)
-     - _opis:_ IMPUS Terra pracuje na : zbiorczych danych i mikrodanych spisowych i ankietowych, danych z teledetekcji, danych klimatycznych i danych wektorowych z systemu informacji geograficznej.  IMPUS Terra  posiada narzędzia do integracji, analizy i wizualizacji danych o wymiarach przestrzennych i czasowych.
-
-
-
+**The Armed Conflict Location & Event Data Project (ACLED)**
+    - _url:_ [https://www.acleddata.com/data/]( https://www.acleddata.com/data/)
+    - _opis:_ Baza zawierająca dane o konfliktach na świecie. Umożliwia wyszukiwanie danych w kontekście czasowym i przestrzennym.
 
 ## Gdzie szukać dalej
 
@@ -65,7 +60,6 @@ Poza wymienionymi danymi możesz szukać interesujących danych w takich miejsca
 2. [ESRI - Centrum ArcGIS Hub](https://hub.arcgis.com/search) - ogromna baza danych różnorodnych projektów i otwartych danych. Dzięki róznym mechanizmom wyszukiwania można filtrować dokładnie interesujące nas treści. Zaletą jej jest duży zbiór danych, a wadą bardzo różny poziom wykonania i charakter - są tam zarówno dane do pobrania i wykorzystania jak i gotowe mapy. Warto spróbować ale nie należy sobie zbyt wiele obiecywać. 
 
 3. [Strona GIS Support](https://gis-support.pl/baza-wiedzy/dane-do-pobrania/) - na stronie firmy GIS Support można znaleźć wiele informacji na temat danych do pobrania wraz z instrukcjami użycia portali. 
-
 
 ## Mapy i wizualizacje
 
