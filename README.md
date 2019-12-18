@@ -34,7 +34,7 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
 - **Victorian Government open data**
      - _url:_ [https://data.vic.gov.au](https://data.vic.gov.au/)
-     - _opis:_ Open data for the state of Victoria, Australia. Find resources and guides on publishing data, API documentation for developers plus relevant government data policies and standards.
+     - _opis:_ Bazy danych przestrzennych, użytkowanie terenu, dane dotyczące komunikacji, demografii i procesów urbanistycznych dla stanu Victoria w Australii. 
      
    
 
