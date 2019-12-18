@@ -32,10 +32,19 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **GDOŚ - dane na temat ochrony środowiska**
      - _url:_ [http://www.gdos.gov.pl/dane-i-metadane](http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
-     - **baza danych przestrzennych USGS**
+- **Natural Earth**
+     - _url:_ [http://www.naturalearthdata.com/downloads/](  http://http://www.naturalearthdata.com/downloads/)
+     - _opis:_ Weronika Cebula
+- **Państwowy Instytut Geologiczny**
+     - _url:_ [https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html](  https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html)
+     - _opis:_ Na portalu udostępniane są dane geologiczne obejmujące hydrogeologie i surowce mineralne
+- **Earth Esa**
+     - _url:_ [earth.esa.int/EOLi/EOLi.html](earth.esa.int/EOLi/EOLi.html)
+     - _opis:_ serwis internetowy Europejskiej Agencji Kosmicznej z danymi (zobrazowaniami) pochodzącymi z satelit ENVISAT, ERS, Landsat, IKONOS, DMC, ALOS, SPOT, Kompsat, Proba, IRS, SCISAT
+- **Baza danych przestrzennych USGS**
      - _url:_ [https://www.usgs.gov/products/data-and-tools/gis-data](https://www.usgs.gov/products/data-and-tools/gis-data)
      - _opis:_ baza zawiera dane geologiczne, meteorologiczne, hydrologiczne i biogeograficzne. Dostępne są dane wektorowe, tekstowe i formaty .json (dla różnych zakresów tematycznych różne dane). Baza obejmuje obszar całego świata ze szczególnym uwzględnieniem terytorium Stanów Zjednoczonych. Dane dostępne na stronie publikowane były w latach 2009-2019, ale w niektórych przypadkach dotyczą również wcześniejszych badań.
-     
+  
      
    
 
