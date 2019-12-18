@@ -30,8 +30,11 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _url:_ [http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat](http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat)
      - _opis:_ Na stronie GUGiK można znaleźć takie dane jak Państwowy Rejestr Granic, Bazę Danych Obiektów Ogólnogeograficznych oraz Numeryczny Model Terenu (100m). 
 - **GDOŚ - dane na temat ochrony środowiska**
-     - _url:_ [  http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
+     - _url:_ [http://www.gdos.gov.pl/dane-i-metadane](http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
+     - **baza danych przestrzennych USGS**
+     - _url:_ [https://www.usgs.gov/products/data-and-tools/gis-data](https://www.usgs.gov/products/data-and-tools/gis-data)
+     - _opis:_ baza zawiera dane geologiczne, meteorologiczne, hydrologiczne i biogeograficzne. Dostępne są dane wektorowe, tekstowe i formaty .json (dla różnych zakresów tematycznych różne dane). Baza obejmuje obszar całego świata ze szczególnym uwzględnieniem terytorium Stanów Zjednoczonych. Dane dostępne na stronie publikowane były w latach 2009-2019, ale w niektórych przypadkach dotyczą również wcześniejszych badań.
      
      
    
