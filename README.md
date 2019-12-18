@@ -41,12 +41,18 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **Earth Esa**
      - _url:_ [earth.esa.int/EOLi/EOLi.html](earth.esa.int/EOLi/EOLi.html)
      - _opis:_ serwis internetowy Europejskiej Agencji Kosmicznej z danymi (zobrazowaniami) pochodzącymi z satelit ENVISAT, ERS, Landsat, IKONOS, DMC, ALOS, SPOT, Kompsat, Proba, IRS, SCISAT
-- **European Environment Agency**
+     - **European Environment Agency**
      - _url:_ [https://www.eea.europa.eu/data-and-maps/find/global#c0=12&c6=&b_start=0](  https://www.eea.europa.eu/data-and-maps/find/global#c0=12&c6=&b_start=0)
      - _opis:_ obszerny zbiór danych przestrzennych dla Europy prowadzony i na bieżąco aktualizowany przez Europejską Agencję Środowiskową; informacje o: Agriculture ,Air pollution, Biodiversity – Ecosystems, Chemicals, Climate change adaptation, Climate change mitigatio, Default, Energy, Environment and health ,Environmental scenarios ,Environmental technology ,Fisheries, Green economy, Household consumption, Industry, Land use, Marine, Natural resources ,Noise ,Policy instruments, Resource efficiency and waste, Soil, Specific regions, Sustainability transitions, Tourism, Transport, Urban environment, Various other issues ,Water 
 - **Baza danych przestrzennych USGS**
      - _url:_ [https://www.usgs.gov/products/data-and-tools/gis-data](https://www.usgs.gov/products/data-and-tools/gis-data)
      - _opis:_ baza zawiera dane geologiczne, meteorologiczne, hydrologiczne i biogeograficzne. Dostępne są dane wektorowe, tekstowe i formaty .json (dla różnych zakresów tematycznych różne dane). Baza obejmuje obszar całego świata ze szczególnym uwzględnieniem terytorium Stanów Zjednoczonych. Dane dostępne na stronie publikowane były w latach 2009-2019, ale w niektórych przypadkach dotyczą również wcześniejszych badań.
+- **Baza danych przestrzennych USGS**
+     - _url:_ [https://www.usgs.gov/products/data-and-tools/gis-data](https://www.usgs.gov/products/data-and-tools/gis-data)
+     - _opis:_ - **IMPUS Terra**
+     - _url:_ [https://terra.ipums.org/](https://terra.ipums.org/)
+     - _opis:_ IMPUS Terra pracuje na : zbiorczych danych i mikrodanych spisowych i ankietowych, danych z teledetekcji, danych klimatycznych i danych wektorowych z systemu informacji geograficznej.  IMPUS Terra  posiada narzędzia do integracji, analizy i wizualizacji danych o wymiarach przestrzennych i czasowych.
+
 
 
 
