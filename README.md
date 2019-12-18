@@ -30,12 +30,20 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _url:_ [http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat](http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat)
      - _opis:_ Na stronie GUGiK można znaleźć takie dane jak Państwowy Rejestr Granic, Bazę Danych Obiektów Ogólnogeograficznych oraz Numeryczny Model Terenu (100m). 
 - **GDOŚ - dane na temat ochrony środowiska**
-     - _url:_ [http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
+     - _url:_ [  http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
-- **Earth Esa**
-     - _url:_ [earth.esa.int/EOLi/EOLi.html](earth.esa.int/EOLi/EOLi.html)
-     - _opis:_ serwis internetowy Europejskiej Agencji Kosmicznej z danymi (zobrazowaniami) pochodzącymi z satelit ENVISAT, ERS, Landsat, IKONOS, DMC, ALOS, SPOT, Kompsat, Proba, IRS, SCISAT
      
+ - **IPUMS TERRA**
+     - _url:_ [https://terra.ipums.org/]( https://terra.ipums.org/)
+     - _opis:_ IPUMS Terra zapewnia globalne dane na temat cech populacji ludzkiej, użytkowania gruntów, pokrycia terenu, klimatu i innych cech środowiska. Sprawia, że te dane są interoperacyjne w czasie i przestrzeni, rozpowszechnia je wśród opinii publicznej i wielu społeczności badawczych oraz zachowuje te cenne zasoby dla przyszłych pokoleń. Struktura IPUMS Terra zapewnia narzędzia do integracji, analizy i wizualizacji szerokiego zakresu danych o wymiarach przestrzennych i czasowych.
+
+IPUMS TERRA OBECNIE SIĘ SĄ NA PIĘCIU RODZAJACH DANYCH:
+Mikrodane spisowe i ankietowe opisujące cechy jednostek oraz ich rodzin i gospodarstw domowych;
+Zbiorcze dane spisowe i ankietowe, opisujące cechy charakterystyczne miejsc, w tym zagregowane cechy ludnościowe, użytkowanie gruntów i pokrycie terenu;
+Dane pochodzące z teledetekcji opisujące pokrycie terenu i inne cechy środowiskowe;
+Dane klimatyczne opisujące temperaturę, opady i inne zmienne związane z klimatem;
+Wektorowe dane z systemu informacji geograficznej (GIS) określające granice jednostek administracyjnych i spisowych.
+
    
 
 
