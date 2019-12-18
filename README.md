@@ -32,7 +32,9 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **GDOŚ - dane na temat ochrony środowiska**
      - _url:_ [  http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
-     
+- **Victorian Government open data**
+     - _url:_ [https://data.vic.gov.au](https://data.vic.gov.au/)
+     - _opis:_ Open data for the state of Victoria, Australia. Find resources and guides on publishing data, API documentation for developers plus relevant government data policies and standards.
      
    
 
