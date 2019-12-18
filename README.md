@@ -32,6 +32,9 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **GDOŚ - dane na temat ochrony środowiska**
      - _url:_ [http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
      - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
+- **Natural Earth**
+     - _url:_ [http://www.naturalearthdata.com/downloads/](  http://http://www.naturalearthdata.com/downloads/)
+     - _opis:_ Weronika Cebula
 - **Państwowy Instytut Geologiczny**
      - _url:_ [https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html](  https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html)
      - _opis:_ Na portalu udostępniane są dane geologiczne obejmujące hydrogeologie i surowce mineralne
