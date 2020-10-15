@@ -53,6 +53,12 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _url:_ [https://terra.ipums.org/](https://terra.ipums.org/)
      - _opis:_ IMPUS Terra pracuje na : zbiorczych danych i mikrodanych spisowych i ankietowych, danych z teledetekcji, danych klimatycznych i danych wektorowych z systemu informacji geograficznej.  IMPUS Terra  posiada narzędzia do integracji, analizy i wizualizacji danych o wymiarach przestrzennych i czasowych.
 
+- **Baza danych obiektów topograficznych Gugik**
+     - _url:_ [http://www.gugik.gov.pl/pzgik/zamow-dane/baza-danych-obiektow-topograficznych-bdot-10k](http://www.gugik.gov.pl/pzgik/zamow-dane/baza-danych-obiektow-topograficznych-bdot-10k)
+     - _opis:_ Zintegrowane kopie Baz Danych Obiektów Topograficznych (BDOT10k) to wektorowa (obiektowa) baza danych zawierająca lokalizację przestrzenną obiektów topograficznych wraz z ich charakterystyką.
+ Treść i szczegółowość bazy BDOT10k odpowiada mapie topograficznej w skali 1:10 000, gdzie zakres tematyczny obejmuje m.in. informacje o:
+ sieci wodnej, sieci komunikacyjnej, sieci uzbrojenia terenu, pokryciu terenu, budynkach, budowlach i urządzeniach, kompleksach użytkowania terenu,
+terenach chronionych, jednostkach podziału terytorialnego. Danych nie można bezpośrednio pobrać bez licencji. W innym wypadku, należy je początkowo zamówić.
 
 
 
