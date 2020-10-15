@@ -73,8 +73,12 @@ terenach chronionych, jednostkach podziału terytorialnego. Danych nie można be
      - _opis:_ skany starych map, mają bardzo dużą wartość poznawczą i wiele wnoszą do opracowań środowiskowych.
      
 - **Baza danych atrybutów hydro-środowiskowych**
-     - _url:_ https://hydrosheds.org/](https://hydrosheds.org/)
+     - _url:_ [https://hydrosheds.org/](https://hydrosheds.org/)
      - _opis:_ HydroSHEDS to produkt do mapowania, który zapewnia informacje hydrograficzne do zastosowań w skali regionalnej i globalnej w spójnym formacie
+
+- **Socioeconomic Data and Applications Center (SEDAC)**
+     - _url:_ [https://sedac.ciesin.columbia.edu/data/sets/browse](https://sedac.ciesin.columbia.edu/data/sets/browse)
+     - _opis:_ Centrum Danych Społeczno-Ekonomicznych i Aplikacji (SEDAC) pokazuje interakcje człowieka ze środowiskiem. Udostępnia szeroką gamę ogólnych, globalnych bezpłatnych danych GIS, pochodzących z NASA, m. in. oferuje szeroki zakres danych związanych ze zrównoważonym rozwojem, w tym dane i wskaźniki dotyczące ludności, infrastruktury, użytkowania gruntów, ubóstwa, zasobów naturalnych, ryzyka klęski żywiołowej, wpływu na klimat i wrażliwości, zanieczyszczenia środowiska oraz międzynarodowych umów środowiskowych.
 
 
 
