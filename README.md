@@ -80,7 +80,9 @@ terenach chronionych, jednostkach podziału terytorialnego. Danych nie można be
      - _url:_ [https://sedac.ciesin.columbia.edu/data/sets/browse](https://sedac.ciesin.columbia.edu/data/sets/browse)
      - _opis:_ Centrum Danych Społeczno-Ekonomicznych i Aplikacji (SEDAC) pokazuje interakcje człowieka ze środowiskiem. Udostępnia szeroką gamę ogólnych, globalnych bezpłatnych danych GIS, pochodzących z NASA, m. in. oferuje szeroki zakres danych związanych ze zrównoważonym rozwojem, w tym dane i wskaźniki dotyczące ludności, infrastruktury, użytkowania gruntów, ubóstwa, zasobów naturalnych, ryzyka klęski żywiołowej, wpływu na klimat i wrażliwości, zanieczyszczenia środowiska oraz międzynarodowych umów środowiskowych.
 
-
+- **EuroGlobalMap**
+     - _url:_ [https://eurogeographics.org/maps-for-europe/open-data/ ](https://eurogeographics.org/maps-for-europe/open-data/ )
+     - _opis:_ topograficzna mapa 45 krajów Europy w skali 1:1000000, dostępna do pobrania i przeglądania za pomocą przeglądarki, zawiera: Administrative boundaries, The water network, Transport networks, Settlements, Named locations.
 
 
 ## Gdzie szukać dalej
