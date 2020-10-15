@@ -60,6 +60,23 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
  sieci wodnej, sieci komunikacyjnej, sieci uzbrojenia terenu, pokryciu terenu, budynkach, budowlach i urządzeniach, kompleksach użytkowania terenu,
 terenach chronionych, jednostkach podziału terytorialnego. Danych nie można bezpośrednio pobrać bez licencji. W innym wypadku, należy je początkowo zamówić.
 
+- **European Soil Data Centre (ESDAC)**
+     - _url:_ [https://esdac.jrc.ec.europa.eu/ ](https://esdac.jrc.ec.europa.eu/ )
+     - _opis:_ baza danych dotyczących gleb w Europie. Ma być miejscem, w którym znajdują się dane dotyczące gleby dla wszystkich krajów UE. Zawiera szereg zasobów, które są zorganizowane i prezentowane na różne sposoby: zbiory danych, usługi/aplikacje, mapy, dokumenty, wydarzenia, Projekty I Linki zewnętrzne. Dane nie są dostępne od razu, trzeba z tej strony zamówić. 
+
+- **Środowiskowe bazy danych**
+     - _url:_ [https://ekoportal.gov.pl/dane-o-srodowisku/srodowiskowe-bazy-danych](https://ekoportal.gov.pl/dane-o-srodowisku/srodowiskowe-bazy-danych)
+     - _opis:_ Część danych  jest do pobrania, część tylko do przeglądania. W skład systemu wchodzą warstwy: ewidencji gruntów - zgodna z zasobami powszechnej ewidencji gruntów, leśna mapa numeryczna Parku, statystyczno-matematyczna inwentaryzacji i kontroli zasobów leśnych, gleb, zbiorowisk roślinnych, ochrony flory, ochrony fauny, ochrony walorów krajobrazowych, ochrony zasobów kulturowych, udostępniania do zwiedzania i edukacji ekologicznej, zagospodarowania przestrzennego, syntezy planu ochrony. Dane udostępniane są na wniosek
+
+- **Dane Historyczne**
+     - _url:_ [http://polski.mapywig.org/news.php](http://polski.mapywig.org/news.php)
+     - _opis:_ skany starych map, mają bardzo dużą wartość poznawczą i wiele wnoszą do opracowań środowiskowych.
+     
+- **Baza danych atrybutów hydro-środowiskowych**
+     - _url:_ https://hydrosheds.org/](https://hydrosheds.org/)
+     - _opis:_ HydroSHEDS to produkt do mapowania, który zapewnia informacje hydrograficzne do zastosowań w skali regionalnej i globalnej w spójnym formacie
+
+
 
 
 ## Gdzie szukać dalej
